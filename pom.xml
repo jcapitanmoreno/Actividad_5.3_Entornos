@@ -33,7 +33,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/jcapitanmoreno/https://github.com/jcapitanmoreno/Actividad_5.3_Entornos.git</url>
+            <url>https://maven.pkg.github.com/jcapitanmoreno/Actividad_5.3_Entornos</url>
         </repository>
     </distributionManagement>
 </project>
