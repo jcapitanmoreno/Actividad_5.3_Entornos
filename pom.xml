@@ -29,4 +29,11 @@
             </plugin>
         </plugins>
     </build>
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/TU_USUARIO/TU_REPOSITORIO</url>
+        </repository>
+    </distributionManagement>
 </project>
