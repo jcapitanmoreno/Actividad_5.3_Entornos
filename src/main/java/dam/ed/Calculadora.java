@@ -10,7 +10,7 @@ public class Calculadora {
     }
 
     double multiplica(double a, double b) {
-        return (a * b);
+        return (a * a);
     }
 
     double divide(double dividendo, double divisor) {
