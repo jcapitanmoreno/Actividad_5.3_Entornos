@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.jcapitanmoreno</groupId>
-    <artifactId>calculadora_Entornos_Juan_J_Capitan</artifactId>
+    <artifactId>calculadora</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
